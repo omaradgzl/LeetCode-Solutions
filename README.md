@@ -1,3 +1,3 @@
-# LeetCode Solutions
+# LeetCode Solutions To Some Problems
+
  
-Solutions for Leetcode problems that i try to solve in my free time. 
